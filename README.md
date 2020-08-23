@@ -6,7 +6,8 @@
    * Call Back Function.
    * Anonymous Function.
    * Event Handler.
-   
+   * Ternary operator.
+   * Add, remove and toggle HTML class.
    
    
    
