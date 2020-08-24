@@ -15,6 +15,7 @@ GAME RULES:
    * Ternary operator.
    * Add, remove and toggle HTML class.
    * Apply DRY(Don't Repeat Yourself) principle.
+   * State variable.
    
    
    
